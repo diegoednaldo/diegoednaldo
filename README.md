@@ -13,8 +13,7 @@
 <img width="50" height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="Postgres SQL" alt="Postgres SQL"/></code>
 <img height="50" src="http://h2database.com/html/images/h2-logo-2.png" title="H2 database" alt="H2 database">
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HeidiSQL_logo_image.png/600px-HeidiSQL_logo_image.png?20200307114522" title="HeidiSQL" alt="HeidiSQL">
-<img height="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code> 
-<img width="50" height="50" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
+<img height="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
 <img width="50" height="50" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/html_logo.png" title="HTML" alt="HTML" />
 <img width="50" height="50" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/css_logo.png" title="CSS" alt="CSS" />
 <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" />
