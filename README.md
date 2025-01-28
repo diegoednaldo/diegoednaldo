@@ -12,10 +12,7 @@
  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" title="Databricks" alt="Databricks">
  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI">
  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" title="Microsoft Azure" alt="Microsoft Azure">
- <img width="50" height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL"/></code>
- <img width="50" height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="Postgres SQL" alt="Postgres SQL"/></code>
- <img height="50" src="http://h2database.com/html/images/h2-logo-2.png" title="H2 database" alt="H2 database">
- <img width="50" height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" /></code>
+ <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" title="SQL" alt="SQL"/></code>
  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT">
 
 </p>
