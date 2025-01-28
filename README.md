@@ -9,7 +9,7 @@
 </summary>
 <p align="left">
  <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python"/>
- <img height="50" src="https://databricks.com/wp-content/uploads/2021/09/Databricks_Logo.png" title="Databricks" alt="Databricks">
+ <img height="50" src="https://en.m.wikipedia.org/wiki/File:Databricks_Logo.png" title="Databricks" alt="Databricks">
  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI">
  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" title="Microsoft Azure" alt="Microsoft Azure">
  <img width="50" height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL"/></code>
