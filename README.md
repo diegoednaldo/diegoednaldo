@@ -9,16 +9,14 @@
 </summary>
 <p align="left">
  <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python"/>
+ <img height="50" src="https://databricks.com/wp-content/uploads/2021/09/Databricks_Logo.png" title="Databricks" alt="Databricks">
+ <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI">
+ <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" title="Microsoft Azure" alt="Microsoft Azure">
  <img width="50" height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL"/></code>
-<img width="50" height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="Postgres SQL" alt="Postgres SQL"/></code>
-<img height="50" src="http://h2database.com/html/images/h2-logo-2.png" title="H2 database" alt="H2 database">
-<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HeidiSQL_logo_image.png/600px-HeidiSQL_logo_image.png?20200307114522" title="HeidiSQL" alt="HeidiSQL">
-<img height="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
-<img width="50" height="50" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/html_logo.png" title="HTML" alt="HTML" />
-<img width="50" height="50" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/css_logo.png" title="CSS" alt="CSS" />
-<img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" />
-<img width="50" height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" /></code>
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT">
+ <img width="50" height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="Postgres SQL" alt="Postgres SQL"/></code>
+ <img height="50" src="http://h2database.com/html/images/h2-logo-2.png" title="H2 database" alt="H2 database">
+ <img width="50" height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" /></code>
+ <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT">
 
 </p>
 
@@ -26,10 +24,7 @@
 </summary>
 <p align="left">
 </code>
-<img title="React" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img width="50" height="50" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/main/svg_logos/angularjs-original.svg" title="Angular JS" alt="Angular JS" />
-
-
+ <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/AmazonWebservices_Logo.svg" title="Amazon Web Services" alt="Amazon Web Services">
 <p>
 
   ##
