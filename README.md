@@ -1,8 +1,8 @@
 ## Hello World! Sou Diego Ednaldo! 👋
  
 - 💻 Graduando em Sistemas para Internet.
-- 🌱 Atualmente, estou estudando Data Analytics e eventualmente, ferramentas de Frontend. 
-- 👀 Sigo sempre curioso para aprender novas tecnologias.
+- 🌱 Atualmente, estou estudando Data Engineer e Data Analytics. 
+- 👀 Sigo sempre curioso para aprender.
 
 ## 🚀 Languages and Tools
 ### Principais Linguagens e Ferramentas:
