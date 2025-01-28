@@ -24,7 +24,7 @@
 </summary>
 <p align="left">
 </code>
- <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/AmazonWebservices_Logo.svg" title="Amazon Web Services" alt="Amazon Web Services">
+ <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" title="Amazon Web Services" alt="Amazon Web Services">
 <p>
 
   ##
